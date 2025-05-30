@@ -12,6 +12,7 @@ class CuentaBancaria
 		this.numCuenta = numCuenta;
 		this.nomTitular = nomTitular;
 		ingreso(saldo);
+		this.TipoIntereses = TipoIntereses;
 			}
 	
 	////////////////////////////////////////////////////////////////////////////
